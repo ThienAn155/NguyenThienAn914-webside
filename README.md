@@ -7,5 +7,7 @@
 <body>
     <h1>Welcome to My Website</h1>
     <p>This is a  website hosted on GitHub Pages.</p>
+    <p>This is some <small>smaller</small>small> text.</p>
+    
 </body>
 </html>
