@@ -15,17 +15,21 @@
     
 </body>
 <body>
-    <header> </header>
+    <header> Hello </header>
     <nav class="mainNav>
+        
     </nav>
     <main class="mainBody">
+        
          <aside class="left-content">
+         
          </aside>
          <article class="main-content">
+         
          </article>
     </main>
     <footer>
-        
+    
     </footer>     
 </body>
 </html>
