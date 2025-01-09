@@ -15,7 +15,7 @@
     
 </body>
 <body>
-    <header> Hello </header>
+    <header> </header>
     <nav class="mainNav>
         
     </nav>
@@ -27,9 +27,25 @@
          <article class="main-content">
          
          </article>
+         <table borber="1" width=30% heigth="100px">
+            <tr>
+               <th>Firstname</th>
+               <th>Lastname</th>
+               <th>Born</th>
+            </tr>
+            <tr>
+               <td>Guido</td>
+               <td>Rossum</td>
+               <td align="right">1956</td>
+            </tr>
+            <tr>
+               <td>Dennis</td>
+               <td>Ritchie</td>
+               <tr align="right">1941</td>
+            </tr>
     </main>
     <footer>
     
-    </footer>     
+    </footer>  
 </body>
 </html>
