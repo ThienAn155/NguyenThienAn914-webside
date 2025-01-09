@@ -4,7 +4,10 @@
     <title> My GitHub Website</title>
 </head>
 <body>
+
     <h1>Welcome to My Website</h1>
     <p>This is a  website hosted on GitHub Pages.</p>
+<p>This is some <small>smaller</small> text </p>
+<p>Do not forget to buy <mark>milk</mark> today </p>
 </body>
 </html>
