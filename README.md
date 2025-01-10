@@ -15,37 +15,26 @@
     
 </body>
 <body>
-    <header> </header>
-    <nav class="mainNav>
-        
-    </nav>
-    <main class="mainBody">
-        
-         <aside class="left-content">
-         
-         </aside>
-         <article class="main-content">
-         
-         </article>
-         <table borber="1" width=30% heigth="100px">
-            <tr>
-               <th>Firstname</th>
-               <th>Lastname</th>
-               <th>Born</th>
-            </tr>
-            <tr>
-               <td>Guido</td>
-               <td>Rossum</td>
-               <td align="right">1956</td>
-            </tr>
-            <tr>
-               <td>Dennis</td>
-               <td>Ritchie</td>
-               <tr align="right">1941</td>
-            </tr>
-    </main>
-    <footer>
-    
-    </footer>  
+   <table border="1" bgcolor='black" style="color:white; width:100%;">
+       <thead>
+        <tr>
+          <td colspan="4">This is the head of the table</td>
+       </tr>
+       </thead>
+       <tfoot>
+        <tr>
+        <td colspan="4">This is the foot of the table</td>
+       </tr>
+       </tfoot>
+
+       <tbody>
+         <tr>
+           <td>Cell 1</td>
+           <td>Cell 2</td>
+           <td>Cell 3</td>
+           <td>Cell 4</td>
+        </tr>
+      </tbody>
+      </table>
 </body>
 </html>
