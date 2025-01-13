@@ -12,7 +12,10 @@
     <p>My favorite color is <del>blue</del> <ins>red</ins></p>.</p>
     <p>The formula for water is H<sub>2</sub>0</p>
     <p>a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></p>
-    
+
+    <header>
+    </header>
+    <nav class = "mainNav">
 </body>
 
    <table border="1" bgcolor='black" style="color:white; width:100%;">
