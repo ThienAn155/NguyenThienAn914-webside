@@ -14,7 +14,7 @@
     <p>a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></p>
     
 </body>
-<body>
+
    <table border="1" bgcolor='black" style="color:white; width:100%;">
        <thead>
         <tr>
@@ -36,5 +36,4 @@
         </tr>
       </tbody>
       </table>
-</body>
 </html>
