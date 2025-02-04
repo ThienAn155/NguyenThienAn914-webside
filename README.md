@@ -39,6 +39,19 @@
     <header>
     </header>
     <nav class = "mainNav">
+        <H2>Vietnam region map</H2>
+<img src=“vietnammap.jpg" usemap="#mapvn"/>
+<map name="mapvn">
+<area shape=“poly"
+coords="175,217,380,170,..." alt="Miền Bắc"
+href="#" />
+<area shape=“poly"
+coords=“173,220,168,233,..." alt="Miền Trung"
+href="#"/>
+<area shape=“poly"
+coords=“166,320,140,338,..." alt="Miền Nam"
+href="#"/>
+</map>
 </body>
 
 </html>
